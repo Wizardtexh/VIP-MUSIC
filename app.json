@@ -14,17 +14,17 @@
     "env": {
       "API_ID": {
         "description": "𝐆𝐄𝐓 𝐀𝐏𝐈 𝐈𝐃 𝐅𝐑𝐎𝐌 https://my.telegram.org",
-        "value": "14050586",
+        "value": "29109422",
         "required": true
       },
       "API_HASH": {
         "description": "𝐆𝐄𝐓 𝐀𝐏𝐈 𝐇𝐀𝐒𝐇 𝐅𝐑𝐎𝐌 https://my.telegram.org",
-        "value": "42a60d9c657b106370c79bb0a8ac560c",
+        "value": "36ec891e0a5cdf8c1af3c20772dbbd6a",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "𝐆𝐄𝐓 𝐁𝐎𝐓 𝐓𝐎𝐊𝐄𝐍 𝐅𝐑𝐎𝐌 𝐁𝐎𝐓 𝐅𝐀𝐓𝐇𝐄𝐑",
-        "value": "",
+        "value": "6933452429:AAEoTE2kyTbjlUzfwk_5nrTZjoenQbRa6Ws",
         "required": true
       },
       "MONGO_DB_URI": {
@@ -34,7 +34,7 @@
       },
       "OWNER_ID": {
         "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 𝐎𝐖𝐍𝐄𝐑 𝐈𝐃, 𝐔 𝐂𝐀𝐍 𝐔𝐒𝐄 𝐌𝐎𝐑𝐄 𝐏𝐄𝐑𝐒𝐎𝐍 𝐈𝐃 𝐁𝐘 𝐆𝐈𝐕𝐄𝐈𝐍𝐆 𝐒𝐏𝐀𝐂𝐄 𝐀𝐅𝐓𝐄𝐑 𝐎𝐍𝐄 𝐈𝐃.",
-        "value": "1808943146",
+        "value": "7080052423",
         "required": true
       },
       "STRING_SESSION": {
